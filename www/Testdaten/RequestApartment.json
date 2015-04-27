@@ -1,107 +1,153 @@
-[{
+[
+{
   "id": 1,
-  "title": "Suche WGZimmer",
-  "createTime": "datetime",
-  "description": "Mindestens 13m2",
-  "totalprice": 150.00,
+  "title": "Suche 2 Zimmer Wohnung",
+  "createTime": datetime,
+  "description": "Hallöchen :)
+
+Ich bin 22 Jahre jung und habe mich vor kurzem selbstständig gemacht.
+Dies bedeutet monatliches Einkommen und Schufa ist ok.
+
+Jetzt suche ich ein kleines Zuhause :)
+
+Keine Kinder, keine Haustiere.
+
+Miete sollte nicht VIEL mehr als 500 Euro betragen.
+
+Renovierungen können auch gerne von mir übernommen werden.
+
+Vielen lieben dank im vorraus :)",
+  "totalprice": 500.00,
   "userid" : 9999,
-  "furnished": true,
-  "type": "WG",
-  "size": 13,
+  "furnished": false,
+  "type": "Wohnung",
+  "size": 50,
   "phase": "A",
   "city": "Ravensburg"
 }
-,
+
 {
   "id": 2,
-  "title": "Suche 1-Zimmer-Wohnung",
-  "createTime": "datetime",
-  "description": "Zentrale Lage erwünscht!",
-  "totalprice": 300.00,
+  "title": "Suche Wohnung/Haus",
+  "createTime": datetime,
+  "description": "Hallo wir suchen ein Haus bzw Wohnung.
+
+Bei einer Wohnung sollte ein größerer Balkon oder Terrasse vorhanden sein.
+
+Je nach dem 3-6 Zimmer und bestenfalls über 100qm.
+
+Preis sollte bis max 200000€ sein.
+
+Vielen Dank für Angebote!",
+  "totalprice": 900.00,
   "userid" : 8888,
   "furnished": false,
-  "type": "1-Zimmer-Wohnung",
-  "size": 21,
+  "type": "Wohnung",
+  "size": 100,
   "phase": "B",
   "city": "Bad Saulgau"
 }
-,
+
 {
   "id": 3,
-  "title": "Suche WG Zimmer in München",
-  "createTime": "datetime",
-  "description": "Als Tauschpartner für B-Phase",
-  "totalprice": 350.00,
+  "title": "Suche Wohnung in Ravensburg oder Weingarten",
+  "createTime": datetime,
+  "description": "Suche 2-Zimmer Wohnung
+in Weingarten oder Ravensburg ab 01.10.2015 um die 50 / 60 m2
+
+Warmmiete um die € 450
+
+Single, ruhig und voll berufstätig
+
+Freue mich über attraktive Angebote!",
+  "totalprice": 450.00,
   "userid" : 6666,
   "furnished": true,
-  "type": "WG",
-  "size": 10,
+  "type": "Wohnung",
+  "size": 50,
   "phase": "A",
-  "city": "M'b8nchen"
+  "city": "Ravensburg"
 }
-,
+
 {
   "id": 4,
-  "title": "Suche WG Zimmer in RV",
-  "createTime": "datetime",
-  "description": "Muss nicht möbelliert sein aber sehr groß !",
+  "title": "Suche dringend 2 ZKB Wohnung"
+  "createTime": datetime,
+  "description": "Ich suche dringend eine 2 ZKB Wohnung wo meine 2 Kater auch Willkommen sind und ihre Freiheit genießen können. 
+Raum Geisenheim,Rüdesheim Eibingen wäre schön. 
+Über Angebote würde ich mich sehr freuen.",
   "totalprice": 420.00,
   "userid" : 5432,
   "furnished": false,
-  "type": "WG",
-  "size": 22,
+  "type": "Wohnung",
+  "size": 40,
   "phase": "A",
   "city": "Ravensburg"
 }
-,
+
+
 {
   "id": 5,
   "title": "Suche WG Zimmer",
-  "createTime": "datetime",
-  "description": "Maximal 200 und möbelliert!",
-  "totalprice": 200.00,
+  "createTime": datetime,
+  "description": "Ich suche ab 01.10.2015 eine Wohnung im Raum Weingarten, sie sollte mindestens 30m² haben und nicht teurer als 350€ warm sein. Ich besitze einen Papagei daher sollten Haustiere gestattet sein. 
+Tel.: 0177 3914703",
+  "totalprice": 350.00,
   "userid" : 1111,
   "furnished": true,
   "type": "WG",
-  "size": 12,
+  "size": 20,
   "phase": "B",
   "city": "Weingarten"
 }
-,
+
+
 {
   "id": 6,
-  "title": "Suche 1-Zi-Wo",
-  "createTime": "datetime",
-  "description": "Bitte dringend melden!",
-  "totalprice": 25.00,
+  "title": "Suchen dringend zum 1.7.2015 eine 2-3 Zimmer Wohnung",
+  "createTime": datetime,
+  "description": "Suchen nach satter Mieterhöhung nun eine neue Wohnung! 
+Waren sogar so clever und hatten erst gekündigt als wir einen neuen Vertrag unterschrieben hatten. Leider hat die neue Vermieterin wohl auch was am Knärzjen und wir haben den Vertrag auf ihren Wunsch hin wieder auflösen müssen. Jetzt haben wir das Dilemma und müssen ab 1.6.2015 in unserem Wohnwagen wohnen! 
+Wenn Sie nun eine Wohnung für uns in Petto hätten, wäre ich Ihnen sehr dankbar. Meinem 31-jährigen Freund macht das nichts aus ein paar Monate in einem Wohnwagen zu wohnen, allerdings mache ich gerade eine Aus- und Weiterbildung zur Rettungsassistentin und kann schlecht auf 5m² lernen. 
+Es wäre richtig toll wenn unsere neue Wohnung mindestens 50m² hätte und je nach Schnitt 2 Zimmer. Mehr ist natürlich immer besser. ;o) 
+Mein Freund ist KfZ-Mechaniker und hatte dementsprechend einen kleinen Fuhrpark (Keine Sorge! Der Fuhrpark steht meist bei seinen Eltern.), ABER wenn er dann mal sein Quad im Sommer fährt kann das schlecht auf der Straße stehen... :oP Ein Stellplatz wäre also super! ;o) 
+Ich, übrigens 27 Jahre alt, bin ziemlich Sonnenfanatisch. Ein Balkon ist wirklich ein Muss. ;o) 
+Unser Budget liegt bei einer Warmmiete von 800 €. Am liebsten wohnen wir in Mainz, es muss gar nicht mitten in der Stadt sein, Gonsenheim wäre ein Traum! Aber auch Bretzenheim, Marienborn, Mombach und und und sind echt ok. :o) 
+Und bitte keine Makleranfragen, außer der Vermieter möchte ihn übernehmen... Ich denke das ist fair, wenn ich einen Makler bezahlen möchte hätte ich auch einen beauftragt! 
+Übrigens sind wir noch kinderlos, haben keinerlei Haustiere und spielen auch keine Instrumente. Wir sind auch beide in unbefristeten Arbeitsverhältnissen, also ziemlich perfekte Mieter. ;o)",
+  "totalprice": 600.00,
   "userid" : 1312,
   "furnished": false,
-  "type": "1-Zimmer-Wohnung",
-  "size": 5,
-  "phase": "A",
+  "type": "Wohnung",
+  "size": 50,
+  "phase": "B",
   "city": "Ravensburg"
 }
-,
+
 {
   "id": 7,
-  "title": "Suche Einfamilienhaus",
-  "createTime": "datetime",
-  "description": "Gerne auch Stadtrandlage",
-  "totalprice": 1500.00,
+  "title": "Suche WG für nächste B-Phase (20.06.-30.09.)",
+  "createTime": datetime,
+  "description": "ICH SUCHE für meine letzte Phase in Ravensburg noch eine Wohnung. Egal ob WG oder 1-Zimmer-Wohnung, am besten nahe der Innenstadt.
+Ich studiere Mediendesign und werde daher meinen Bachelor SCHREIBEN.
+Ich bin offen und unkompliziert :) Freue mich über jedes ANGEBOT!",
+  "totalprice": 420.00,
   "userid" : 1312,
   "furnished": true,
-  "type": "Einfamilienhaus",
+  "type": "WG",
   "size": 25,
-  "phase": "A",
+  "phase": "B",
   "city": "Ravensburg"
 }
-,
+
 {
   "id": 8,
-  "title": "Suche nette WG",
-  "createTime": "datetime",
-  "description": "Gerne auch bisschen teurer",
-  "totalprice": 500.00,
+  "title": "Suche nette WG ab Januar 2016",
+  "createTime": datetime,
+  "description": "Hallo, ab Januar 2016 werde ich an der DHBW studieren. Deshalb bin ich auf der Suche nach einem Zimmer, das ich für die B-Phase im 3-Montas-Rhythmus mieten kann!
+Am besten mit netten Mitbewohner/innen, dann macht das WG Leben gleich doppelt Spaß :)
+Zu mir: ich bin 22 Jahre alt, TREIBE gerne Sport (joggen, schwimmen, Volleyball) und koche und esse aber auch genauso gerne :)",
+  "totalprice": 400.00,
   "userid" : 1404,
   "furnished": false,
   "type": "WG",
@@ -109,31 +155,33 @@
   "phase": "B",
   "city": "Ravensburg"
 }
-,
+
 {
   "id": 9,
-  "title": "Suche kleines Appartment",
-  "createTime": "datetime",
-  "description": "Klein und günstig",
-  "totalprice": 300.00,
+  "title": "Suche WG/Wohnung in Ravensburg",
+  "createTime": datetime,
+  "description": "Ich (m22) und ein guter Freund (21) suchen ab dem 01.08.15 für ein Jahr eine Wg/Wohnung in Ravensburg. Die Wg muss nicht direkt in Ravensburg liegen, sondern auch außerhalb (Weingarten usw.). Am besten wäre es wenn die Wg Zimmer schon möbliert sind, Kabelanschluss und Wlan besitzen.",
+  "totalprice": 400.00,
   "userid" : 1312,
   "furnished": false,
-  "type": "1-Zimmer-Wohnung",
+  "type": "WG",
   "size": 15,
   "phase": "B",
   "city": "Weingarten"
 }
-,
+
 {
   "id": 10,
-  "title": "Suche 1-Zimmer-Wohnung",
-  "createTime": "datetime",
-  "description": "Am Besten in Bad Waldsee",
-  "totalprice": 450.00,
+  "title": "Suche WG Zimmer in RV oder Weingarten",
+  "createTime": datetime,
+  "description": "Hallo, ICH SUCHE für meine Schwester, 20 Jahre und Single ein WG Zimmer in Ravensburg oder Weingarten. Ab September 2015 besucht Sie das Institut für soziale Berufe in Ravensburg und beginnt dort Ihre Ausbildung zur Jugend- und Heimerzieherin.Das Zimmer sollte mindestens 10qm sein und nicht mehr als 350 Euro warm kosten. Ein Auto besitzt sie nicht, deshalb wäre die Anbindung mit Bus oder Zug sehr wichtig für sie. Es ist egal aus wie vielen Personen die WG besteht. Auch das Geschlecht der Mitbewohner ist nicht wichtig. 
+Ich freue mich auf Ihr ANGEBOT. 
+Martina",
+  "totalprice": 350.00,
   "userid" : 1505,
   "furnished": false,
   "type": "1-Zimmer-Wohnung",
-  "size": 18,
-  "phase": "B",
-  "city": "Bad Waldsee"
+  "size": 10,
+  "phase": "A",
+  "city": "Weingarten"
 }]
