@@ -1,81 +1,112 @@
 [{
 "id": "99",
-"title": "Biete Zimmer in der Räuberhöhle",
-"description": "Raucher erwünscht",
-"createtime": "datetime",
-"totalprice": 480.01,
-"iconid": 1111,
-"street": "Rudolfstraßee",
-"city": "Ravensburg",
+"title": "Suche Nachmieter für 1 ZKB Wohnung in Weingarten",
+"description": "Ich suche ab 1.6.15 einen Nachmieter für eine schöne 1ZKB Wohnung in Weingarten. 
+
+Die Wohnung befindet sich in einem Hinterhaus in der Schiersteiner Straße, 1. OG und ist perfekt für Studenten oder Auszubildende. 
+Außerdem gehört ein kleines Kellerabteil dazu. 
+
+Es sind nur wenige Gehminuten zu Bushaltestellen in alle Richtungen und etwa 10 Minuten in die Innenstadt. 
+
+Die Miete beträgt 270€ kalt + 48€ NK + Strom",
+"creattime": datetime,
+"totalprice": 318.00,
+"iconid": [1111, 2222, 3333],
+"street": "Bahnhofstraße",
+"city": "Weingarten",
 "zipcode": 88214,
 "userid": 1505,
 "size" : 22,
-"rent" : 400.02,
-"additionalCost" : 79.99,
+"rent" : 270.00,
+"additionalCost" : 48.00,
 "phase" : "A",
 "deposit" : 999.99,
-"type" : "WG",
-"moveIn" : "datetime",
+"type" : "1ZKB",
+"moveIn" : date,
 "furnished" : true,
 "internet" : true,
-"other" : "Räuberhöhle",
+"other" : "Nur an Studenten",
 "parking" : "Zwei Parkplätze",
-"rooms" : 4,
-"smoking" : true,
-"imgsrc": "rudolfstraße.jpg"
+"rooms" : 1,
+"smoking" : true
 }
-,
+
 {
 "id": "98",
-"title": "WG Zimmer in der Marktstrße",
-"description": "Suche Untermieter für die A-Phase",
-"createtime": "datetime",
-"totalprice": 298.87,
-"iconid": 3333,
-"street": "Marktstrße",
+"title": "Ab 01.07. WG Zimmer: 15qm 350€ Gesamtmiete möbeliert DHBW",
+"description": "Hallo Mein Vater Hermann Vogt bietet ein helles WG-Zimmer in der Südstadt, superzentral, nur 10 Min. in die Innenstadt und nicht mal 1000 Meter zur Dualen Hochschule! Mit dem Fahrrad sind es weniger als 5 Minuten. Alle DHBWs sind schnell zu erreichen. Das Einfamilienhaus wird komplett als WG genutzt und von 6 Personen bewohnt. Ein relativ kleiner Garten (Mini-Liegewiese) sowie eine Sonnenterrasse mit Gartenmöbeln und Sonnenschirm stehen Ihnen bzw. der WG zur Verfügung. Das vollmöblierte Zimmer hat eine Gemeinschafts-Koch- Ess- Wohnküche. Das Zimmer ist ab 01. Juli 2015 (B-Phase) und ab 1. Oktober jeweils für drei Monate zu vermieten (längstens bis Studienende) Gesamt-Miete 350€ sowie eine Kaution von 350 €. Das freundlich neu Möblierte Zimmer verfügt über Internet (WLAN). Bitte nur Telefonische Kontaktaufnahme (siehe unten) (Festnetz) oder (siehe unten) da die E-Mailadresse aus der Verwandtschaft ist!",
+"creattime": datetime,
+"totalprice": 350.00,
+"iconid": [1111, 2222, 3333],
+"street": "Marktstraße",
 "city": "Ravensburg",
 "zipcode": 88214,
 "userid": 9999,
-"size" : 11,
-"rent" : 288.88,
-"additionalCost" : 9.99,
-"phase" : "A",
+"size" : 15,
+"rent" : 300.00,
+"additionalCost" : 50.00
+"phase" : "B",
 "deposit" : 299.99,
 "type" : "WG",
-"moveIn" : "datetime",
+"moveIn" : date,
 "furnished" : true,
 "internet" : true,
 "other" : " ",
 "parking" : "Keine Parkmöglichkeiten",
-"rooms" : 2,
+"rooms" : 1,
 "smoking" : true
 }
-,
+
 {
 "id": "97",
-"title": "Vermiete 1-Zimmer-Wohnung",
-"description": "In der Eichelstraße",
-"createtime": "datetime",
-"totalprice": 193.04,
-"iconid": 3333,
+"title": "Schönes, helles WG-Zimmer in zentraler Lage - B-Phase",
+"description": "Zimmer
+Das Zimmer befindet SICH im Studentenwohnheim Tettnanger Straße von Seezeit. Es ist ein Zimmer mit ca 15m² auf der mittleren Etage eines Eckhauses mit eigenem Zugang zum Balkon. 
+
+Das Zimmer ist vollmöbliert: Kleiderschrank, Schreibtisch, Schreibtischstuhl, Regal, Nachttisch und Bett. 
+Es gibt eine große Fensterfront mit Tür zum Balkon und eine
+
+weitere Tür mit französischem Balkon. Das Badezimmer teilt man SICH mit einem weiteren Mitbewohner. 
+Auch die Küche ist voll ausgestattet mit Mikrowelle, Herd, Wasserkocher, Kühlschrank, Gefrierschrank, usw.
+ 
+LAGE
+Das Wohnheim ist in einem Wohngebiet, etwas ruhiger und in der Nähe des Stadtzentrums gelegen. Einkaufsmöglichkeiten sind zu Fuß in 5-10 Minuten zu erreichen.
+In die Innenstadt und zur duale Hochschule braucht man mit dem Fahrrad 5-10 Minuten, zu Fuß 20 Minuten und mit dem Bus 5-10 Minuten (zur Bushaltestelle braucht man ebenfalls 5-10 Minuten).
+
+Es ist möglich, das Auto auf der Anlage direkt zur Parken.
+ 
+WG-Leben
+In Haus gibt es 7 weitere Bewohner. Die Küche wird gemeinsam genutzt, ansonsten gibt es 3 Badezimmer auf 3 Etagen verteilt. Im Untergeschoss befinden SICH Waschmaschine und Trockner.
+ 
+Sonstiges
+Ich vermiete mein Zimmer von Ende Juni bis September.
+Weitere B-Phasen eventuell möglich.
+
+Falls es noch Fragen gibt - einfach eine kurze Mail SCHREIBEN. :)
+
+Freue mich auf eure Meldungen!",
+"creattime": datetime,
+"totalprice": 332.00,
+"iconid": [1111, 2222, 3333],
 "street": "Eichelstraße",
 "city": "Ravensburg",
 "zipcode": 88214,
 "userid": 1404,
 "size" : 14,
-"rent" : 133.05,
-"additionalCost" : 59.99,
+"rent" : 332.00,
+"additionalCost" : 0.00,
 "phase" : "B",
-"deposit" : 199.00,
-"type" : "1-Zimmer-Wohnung",
-"moveIn" : "datetime",
+"deposit" : 500.00,
+"type" : "WG",
+"moveIn" : date,
 "furnished" : true,
 "internet" : true,
-"other" : "Swarleys Büro",
+"other" : "",
 "parking" : "Parkhaus",
 "rooms" : 1,
 "smoking" : false
 }
+
 ,
 {
 "id": "96",
