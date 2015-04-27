@@ -1,10 +1,16 @@
 [{
   "id": "1234",
-  "title": "XBOX One Vallah",
-  "description": "Zum Verkauf steht eine neue xBox One mit 137 Controllern und keinem Spiel",
-  "createtime": "datetime",
-  "totalprice": 399.99,
-  "iconid": 1111,
+  "title": "NIKE AIR MAX 1 ULTRA MOIRE FIBERGLASS/MINT in GRÖßE 39",
+  "description": "Diese tollen Schuhe in der Größe 39 habe ich neu gekauft. 
+Sie fallen eine halbe bis ganze Größe kleiner aus. 
+Ich muss sie leider verkaufen, da sie mir zu klein sind. 
+Sie sind überall ausverkauft. 
+In der Originalverpackung und ungetragen. Rechnung vorhanden. 
+Versand versichert und im Preis enthalten, außer es geht ins Ausland. 
+Bei Interesse beantworte ich weitere Fragen oder schicke Bilder.",
+  "creattime": datetime,
+  "totalprice": 199.99,
+  "iconid": [1111, 2222, 3333],
   "street": "Rudolfstraße",
   "city": "Ravensburg",
   "zipcode": 88214,
@@ -12,14 +18,16 @@
   "categoryid" : 3,
   "condition" : true
 }
-,
+
 {
   "id": "5678",
-  "title": "Malen nach Zahlen",
-  "description": "Zum Verkauf steht ein Leitfaden zur Erstellung von Projektarbeiten im Studiengang WI",
-  "createtime": "datetime",
-  "totalprice": 69.99,
-  "iconid": 4444,
+  "title": "Kettler HKS Selection Basic E",
+  "description": "Biete kaum benutztes Kettler Multigerät, HKS Selection Basic E, Farbe silber an. Das Gerät verfügt über Kunststoff ummantelten Seilzüge und umfangreiches Zubehör. Das Gerät ermöglicht ein nahezu sämtliche Muskelgruppen umfassendes Krafttraining mit einem Gewichtsblock von 80 kg, und das mit minimalem Platzbedarf. Alle Funktionen sind einwandfrei. Gerät wurde vielleicht fünfmal benutzt und ist als "Wäscheständer" einfach zu schade. 
+
+Für Selbstabholer und -abbauer. Es handelt sich um einen Privatverkauf. Keine Gewährleistung, keine Rücknahme, kein Versand.",
+  "creattime": datetime,
+  "totalprice": 550.00,
+  "iconid": [4444],
   "street": "Marktstraße",
   "city": "Ravensburg",
   "zipcode": 88214,
@@ -27,14 +35,17 @@
   "categoryid" : 5,
   "condition" : true
 }
-,
+
 {
   "id": "1357",
-  "title": "HGB",
-  "description": "Ich verkaufe mein HGB 60. Auflage.",
-  "createtime": "datetime",
-  "totalprice": 3.99,
-  "iconid": 6666,
+  "title": "Samsung PS42E71H 106,7 cm (42 Zoll) 720p HD Plasma Fernseher",
+  "description": "
+Artikel wurde bereits benutzt. Ein Artikel mit Abnutzungsspuren, aber in gutem Zustand und vollkommen funktionsfähig. Es hat kein Standfuss und keine Fernbedienung, Wandhalterung vorhanden (im Preis inbegriffen). Ich biete nur Selbstabholung an. 
+
+Da es sich um eine Privatverkauf handelt, ohne Garantie und Rücknahme.",
+  "creattime": datetime,
+  "totalprice": 200.00,
+  "iconid": [6666],
   "street": "Seestraße",
   "city": "Ravensburg",
   "zipcode": 88214,
@@ -42,14 +53,44 @@
   "categoryid" : 5,
   "condition" : true
 }
-,
+
 {
   "id": "2468",
-  "title": "10 Kisten Bier",
-  "description": "Da ich heute nicht feiern gehe, habe ich 10 Kisten Bier abzugeben",
-  "createtime": "datetime",
-  "totalprice": 39.15,
-  "iconid": 5555,
+  "title": "Philips LED-Lampe Master LED 12W (hell wie 60W), E27",
+  "description": "Neu und OVP:
+MASTER LEDbulb 12W - Echtes Glühlampen-Warmweiß, das stufenlos dimmbar ist
+
+Produktvorteile:
+
+LED-Retrofit-Lampen geeignet für den direkten Ersatz von Standardglühlampen mit E27 (230-240V)
+Über 80% Energieeinsparung im Vergleich zu Glühlampen bei vergleichbarer Lichtleistung und Zeitspanne
+Dimmbar
+Produktbeschreibung:
+
+Echtes Glühlampen-Warmweiß mit Lichtfarbe 827
+Sehr gute Farbwiedergabe
+Sehr großer Ausstrahlungswinkel
+Energieeffizienzklasse A+
+25.000 Stunden Nutzlebensdauer
+Produkteigenschaften:
+
+Gleichmäßige Lichtverteilung / geringer Lichtstromabfall
+Hochwertiges robustes Aluminiumgehäuse optimalen Wärmeableitung
+Keine IR- und UV-Strahlung, geringe Wärmeentwicklung
+Geringe Wartungs- und Wechselkosten
+Schnelle Amortisation
+Anwendungen:
+
+Zur Anwendung in der Allgemeinbeleuchtung, v.a. in Hotels, Restaurants, Shops, Krankenhäusern, sowie im privaten Haushalt
+Temperaturbereich: -20°C bis +45°C Raumtemperatur
+Für Innenanwendungen in offenen / belüfteten Leuchten
+Luftfeuchtigkeit max. 80%
+Sicherheitshinweis:
+
+Nicht für Gleichspannung geeignet",
+  "creattime": datetime,
+  "totalprice": 14.00,
+  "iconid": [5555],
   "street": "Rudolfstraße",
   "city": "Ravensburg",
   "zipcode": 88214,
@@ -58,14 +99,14 @@
   "condition" : true
 }
 
-,
+
 {
   "id": "8594",
-  "title": "Nachhilfe in Programmierung",
-  "description": "Ich möchte gerne meine umfassendes Wissen im Coden an euch weitergeben!",
-  "createtime": "datetime",
-  "totalprice": 899.99,
-  "iconid": 7777,
+  "title": "Staubsauger Siemens Super XS Dino e 2200 W Schwarz",
+  "description": "Kleiner schwarzer Staubsauger von Siemens in super Zustand. Vor zwei Jahren gekauft und nur wegen Umzug und Platzmangel abzugeben.",
+  "creattime": datetime,
+  "totalprice": 80.00,
+  "iconid": [7777],
   "street": "Rudolfstraße",
   "city": "Ravensburg",
   "zipcode": 88214,
@@ -73,14 +114,15 @@
   "categoryid" : 6,
   "condition" : true
 }
-,
+
+
 {
   "id": "2225",
-  "title": "Hantelbank",
-  "description": "Verticke meine Hantelbank gegen gut Geld!",
-  "createtime": "datetime",
-  "totalprice": 9999.99,
-  "iconid": 8888,
+  "title": "Komplette küche mit E geräte",
+  "description": "Wegen umzug abzugeben.. Komplette küche mit E geräte . Herd mit offen , spülmaschine und abzugshaube.. Für ende Mai",
+  "creattime": datetime,
+  "totalprice": 150.00,
+  "iconid": [8888,9999,1234],
   "street": "Seestraße",
   "city": "Ravensburg",
   "zipcode": 88214,
@@ -88,18 +130,122 @@
   "categoryid" : 4,
   "condition" : true
 }
-,
+
+
 {
   "id": "4448",
-  "title": "Abhörgeräte",
-  "description": "Habe Abhöreäte zu viel. Beste zum Spionieren!",
-  "createtime": "datetime",
-  "totalprice": 399.99,
-  "iconid": 5432,
+  "title": "MERCEDES-BENZ E 350 T CDI 7G-TRONIC Avantgarde AMG Sportpaket",
+  "description": "E 350 T CDI 7G-TRONIC Avantgarde Sportpaket AMG-Styling-Paket, Obsidianschwarz Metallic, Ausstattung: Navigationssystem Comand APS, Intelligent Light System mit Bi-Xenon und Kurvenlicht, Nachtsicht-Assistent Plus, Schiebedach elektrisch, Harman Kardon Logic7 Surround Soundsystem, Rückfahrkamera mit Parktronic inklusive Parkführung, Memory-Paket Sitzverstellung elektrisch verstellbar, Sitzheizung für Fahrer und Beifahrer, Komfort-Telefonie, 4-Zonen Klimaautomatik, Adaptiver Fernlicht-Assistent, Aktive Motorhaube, AMG Fussmatten mit Schriftzug, AMG LMR Doppelspeichen-Design 18-Zoll, DVD/CD-Wechsler 6-Fach, Diebstalschutz-Paket, Direct-Control Fahrwerk, Direktlenkung, Dachhimmel Schwarz, Licht und Sicht-Paket, Media Interface, Handyvorbereitung Bluetooth, AMG-Sport-Leder-Lenkrad mit Schaltwippen F1 und Multifunktion, Pelvisbags für Fahrer und Beifahrer, Scheinwerferreinigungsanalage, Spiegel-Paket, LED-Tagfahrlicht, Dachreling, Regensensor, Isofix Kindersitzbefestigung, Verkerszeichen-Assistent, Zierelemente Holz Esche Schwarz Glänzend, Reifendruckverlust-Warnung, 8-Fach Berreift,
+
+Kombi, Gebrauchtfahrzeug
+
+Farbe: Schwarz metallic
+
+Getriebe: Automatik
+
+Kraftstoffart: Diesel
+
+Erstzulassung: 1/2010
+
+
+Kilometerstand: 197.000 km
+
+Anzahl der Türen: 4/5 Türen
+
+Umweltplakette: 4 (Grün)
+
+HU(AU): -- ( -- )
+
+
+Ausstattung
+
+Navigationssystem , Partikelfilter , Schiebedach , Servolenkung , Sitzheizung , Zentralverriegelung
+
+Der Preis ist Verhandlungsbasis",
+  "creattime": datetime,
+  "totalprice": 21900.00,
+  "iconid": [5432,9876,5678],
   "street": "Marienplatz",
   "city": "Ravensburg",
   "zipcode": 88214,
   "userid": 5432,
   "categoryid" : 3,
+  "condition" : true
+}
+
+
+{
+  "id": "2225",
+  "title": "Die Fälle - Grundrechte von E. Rumpf-Rometsch (Neuwertig)",
+  "description": "Ich verkaufe das Buch Die Fälle - Grundrechte Verfassungsbeschwerde und mehr von Egbert Rumpf-Rometsch, 2.Auflage. 
+Das Buch ist in einem neuwertigen Zustand, da ich es nie benutzt habe. 
+Ich habe für das Buch 16,00€ bezahlt. 
+
+Versand möglich, wenn der Empfänger das Porto übernimmt. 
+
+
+Privatverkauf, keine Rücknahme oder Garantie.",
+  "creattime": datetime,
+  "totalprice": 13.00,
+  "iconid": [8888,9999,1234],
+  "street": "Seestraße",
+  "city": "Ravensburg",
+  "zipcode": 88214,
+  "userid": 1111,
+  "categoryid" : 4,
+  "condition" : true
+}
+
+
+{
+  "id": "2225",
+  "title": "Olympus E-620 digitale Spiegelreflexkamera",
+  "description": "Wegen Systemwechsels verkaufe ich meine dig. Spiegelreflexkamera Olympus E-620 mit folgendem Zubehör: 
+- Olympus DIGITAL ED 14‑42mm 1:3.5-5.6 mit Gegenlichtblende 
+- Olympus DIGITAL ED 40‑150mm 1:4.0‑5.6 mit Gegenlichtblende 
+- 2 CF Speicherkarten Ultra 8 GB + 4 GB 
+- 1 Akku, Original Olympus 
+- 1 x Buch "Profibuch Olympus E-620" von Reinhard Wagner (NP: 39,95€) 
+- Fototasche" von Tamrac (NP: 49,90€) inkl. Wetterschutzhülle 
+- Original Ladegerät BCS-1 
+- UV-Schutzfilter 
+- Original Kameragurt, Original Bedienungsanleitungen, Original 
+Anschlusskabel, CD mit Software Olympus Master 2 
+
+Das gesamte Equipment ist in neuwertigem Zustand, da ich die Kamera wenig benutzt habe. Die Objektive sowie das Kameradisplay sind kratzerfrei (siehe auch beigefügte Bilder). 
+
+Die Kamera hat 5.866 Auslösungen. 
+
+Nähere Information zur Kamera: 
+http://www.olympus.de/site/de/archived_products/cameras_1/digital_slr/e_620/e_1.pdf 
+oder 
+http://www.digitalkamera.de/Testbericht/Olympus_E-620/5731.aspx 
+
+Die Kamera kann bei mir angeschaut und abgeholt werden. ",
+  "creattime": datetime,
+  "totalprice": 400.00,
+  "iconid": [8888,9999,1234],
+  "street": "Seestraße",
+  "city": "Ravensburg",
+  "zipcode": 88214,
+  "userid": 1111,
+  "categoryid" : 4,
+  "condition" : true
+}
+
+
+{
+  "id": "2225",
+  "title": "LACOSTE POLOSHIRT LANGARM/LONGSLEEVE SCHWARZ GRÖßE M",
+  "description": "ungetragenes original Lacoste Longsleeve (ohne Etikett) Größe 4/M 
+Versand möglich. zzgl. € 3,80,--",
+  "creattime": datetime,
+  "totalprice": 15.00,
+  "iconid": [8888,9999,1234],
+  "street": "Seestraße",
+  "city": "Ravensburg",
+  "zipcode": 88214,
+  "userid": 1111,
+  "categoryid" : 4,
   "condition" : true
 }]
