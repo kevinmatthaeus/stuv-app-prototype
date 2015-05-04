@@ -1,9 +1,11 @@
-[{
+[REQUESTBLACKBOARD
+
+{
   "id": 1,
-  "title": "Suche Mitfahrgelegenheit",
-  "createTime": "datetime",
-  "description": "Für den 04.12.2014 von RV nach MZ",
-  "totalprice": 15.00,
+  "title": "Suche Reitbeteiligung",
+  "createTime": datetime,
+  "description": "Ich suche ein Pflegepferd für Dressur und Gelände. Bad Waldsee, Friedrichshafen und Umgebung. Ich würde mich über Nachrichten freuen!",
+  "totalprice": 35.00,
   "userid" : 1312,
   "categoryid" : 1,
   "condition" : true
@@ -11,10 +13,11 @@
 ,
 {
   "id": 2,
-  "title": "Suche Haushaltshilfe",
-  "createTime": "datetime",
-  "description": "Für Putzen, Saugen, Bügeln",
-  "totalprice": 10.00,
+  "title": "Suche Amazongutschein 30-35€,
+  "createTime": datetime,
+  "description": "Hallo suche Amazongutschein 35€ für Ca 20€ oder anderen. Der Gutschein sollte ohne Kategorie Bindung sein. Postweg ist nicht nötig, mir reicht der Code. Zahle sofort via Paypal :)
+Viele Grüße",
+  "totalprice": 20.00,
   "userid" : 1505,
   "categoryid" : 6,
   "condition" : true
@@ -22,10 +25,10 @@
 ,
 {
   "id": 3,
-  "title": "Lockenstab",
-  "createTime": "datetime",
-  "description": "So schnell wie möglich!",
-  "totalprice": 8.00,
+  "title": "Suche Kaninchen",
+  "createTime": datetime,
+  "description": "Suche für meine Kaninchendame einen Partner. Wer einen zur Abgabe hat, kann sich gerne mit Bild bei mir melden!",
+  "totalprice": 15.00,
   "userid" : 6666, 
   "categoryid" : 3,
   "condition" : true
@@ -33,10 +36,16 @@
 ,
 {
   "id": 4,
-  "title": "PS4",
-  "createTime": "datetime",
-  "description": "Will wahrscheinlich eh niemand haben, deswegen recycle ich das Zeug!",
-  "totalprice": 1.00,
+  "title": "Wir suchen Vorwerk Kobold oder Tiger Staubsauger",
+  "createTime": datetime,
+  "description": "Suche Vorwerk Staubsauger
+Kobold oder Tiger
+Bitte alle Modelle anbieten
+Preis je nach Modell und Zustand
+Deutschlandweit Versand oder Abholung
+Versandkosten übernehme ich natürlich
+Einfach klingeln lassen ich rufe umgehend zurück oder per whatsapp",
+  "totalprice": 100.00,
   "userid" : 8888, 
   "categoryid" : 3,
   "condition" : true
@@ -44,10 +53,21 @@
 ,
 {
   "id": 5,
-  "title": "Big Data mit HBase",
-  "createTime": "datetime",
-  "description": "Brauche dringend das Buch! Hat jemand zufällig eins??",
-  "totalprice": 29.00,
+  "title": "Suche Volvo S60 - Benziner bis maximal 4000€",
+  "createTime": datetime,
+  "description": "Hallo Zusammen, 
+
+ich suche ein Volvo S60 bis maximal 4000€. 
+
+Was schön wäre aber kein muss ist: 
+-Scheckheftgepflegt 
+-Tüv 
+-Zahnriemen ist gemacht worden 
+-Benziner 
+- Umkreis bis max. 200 km vom Standort Ravensburg 88214 
+
+Bitte alles per Mail anbieten mit Fotos & Preis",
+  "totalprice": 4000.00,
   "userid" : 1312,
   "categoryid" : 5,
   "condition" : true
@@ -55,10 +75,10 @@
 ,
 {
   "id": 6,
-  "title": "Kaffeetassen",
-  "createTime": "datetime",
-  "description": "Bei FIFA gehen mir immer zu viele zu Bruch. Deswegen brauche ich Nachschub!!",
-  "totalprice": 2.00,
+  "title": "Suche Karte Adler Mannheim - ERC Ingolstadt Ticket - Block egal!",
+  "createTime": datetime,
+  "description": "Suche noch eine Karte für das Spiel am Sonntag in Mannheim! Block ist mir egal. Bitte nur humane Angebote, keine 200€ für eine Stehplatzkarte o.ä.",
+  "totalprice": 1.00,
   "userid" : 9999,
   "categoryid" : 8,
   "condition" : true
@@ -66,10 +86,16 @@
 ,
 {
   "id": 7,
-  "title": "iPhone 6",
-  "createTime": "datetime",
-  "description": "Zahle sischer beschte Preis!",
-  "totalprice": 299.00,
+  "title": "Suche min. 26" Fahrrad/Mountainbike",
+  "createTime": datetime,
+  "description": "Hallo liebe Leute,
+
+Ich suche ein Fahrrad in der Umgebung von Bad Waldsee (bis 50km).
+Es sollte schon ein Erwachsenenfahrrad sein und in akzeptablen Zustand.
+Ausserden darf es nicht zu schwer sein und im Bestfall Vollgefedert.
+
+Falls Sie etwas anzubieten haben würde ich mich über eine Nachricht freuen.",
+  "totalprice": 300.00,
   "userid" : 5432,
   "categoryid" : 3,
   "condition" : true
@@ -77,11 +103,37 @@
 ,
 {
   "id": 8,
-  "title": "Lebensabschnittsgefährten",
-  "createTime": "datetime",
-  "description": "Suche jemanden für gemeinsame Nächte! Kino, Essen gehen und Co.! Nur männlich bitte!",
-  "totalprice": 100.00,
+  "title": "Suche Wii U Konsole",
+  "createTime": datetime,
+  "description": "Hallo zusammen suche eine Wii U! Am liebsten in der Farbe schwarz. 
+Angebote gerne per Nachricht!",
+  "totalprice": 150.00,
   "userid" : 9999,
+  "categoryid" : 6,
+  "condition" : true
+}
+,
+{
+  "id": 9,
+  "title": "Suche 3 DVD Box Rückblicke von Peter Maffay und Band",
+  "createTime": datetime,
+  "description": "Hallo, 
+
+ich habe seit langer Zeit in meiner Sammlung von Peter Maffay und Band die 3er DVD Box "Rückblicke", bei der folgendes enthalten ist: 
+
+DVD1: Deutschland ´84 
+DVD2: Berlin ´72 
+DVD 3: Liebe 38317 - Das Club-Concert 
+
+Dazu sämtliches Bonusmaterial. 
+
+Leider musste ich feststellen, dass meine DVDs nicht mehr richtig funktionieren und die Box bereits viele Behandlungen aufweist. 
+
+Auf diesem Wege suche ich noch einmal die DVD Box Rückblicke in einem gebrauchten guten Zustand. Sie sollte KOMPLETT sein, das heißt, bitte alles vorhanden, also Booklet etc. und funktionsfähige DVDs, also wirklich komplett guter Zustand und nicht mehr als 20 € kosten. Das wäre mir sehr wichtig! Bitte alles anbieten. 
+
+Vielen lieben Dank",
+  "totalprice": 20.00,
+  "userid" : 5432,
   "categoryid" : 6,
   "condition" : true
 }]
